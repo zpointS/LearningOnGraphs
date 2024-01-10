@@ -1,7 +1,15 @@
+# custom workspace
+cora/
+pubmed-data/
+
+
 # custom field
 data/
 *.pkl
 *.mat
+.gitignore
+
+### ———————————————————————————————————————— ###
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
