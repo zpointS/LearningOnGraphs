@@ -1,14 +1,20 @@
 # custom workspace
 cora/
 pubmed-data/
-
+processed/
+saved_checkpoints/
+saved_models/
 
 # custom field
 data/
+log/
 *.pkl
+*.pt
 *.mat
 .gitignore
 *.dat
+*.csv
+*.npy
 
 ### ———————————————————————————————————————— ###
 
